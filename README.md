@@ -1,4 +1,4 @@
-# jelling
+# Jelling
 Wrapper for using Bluetooth on Android
 
 ###Usage
